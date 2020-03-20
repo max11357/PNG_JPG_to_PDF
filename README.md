@@ -1,6 +1,6 @@
 # PNG,JPG to PDF!!!
-Convert png,jpg (single,multiple) to pdf..... that's it.
+Convert png,jpg to pdf..... that's it.
 
 how to:
-- run with all picture files in the folder... that's it.
-***PDF will the folder name.
+- run .exe with all picture files in the same directory... that's it.
+***PDF name will be the folder name
